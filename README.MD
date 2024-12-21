@@ -17,8 +17,9 @@ The *Learn-to-Earn Streaming Platform* incentivizes learners by rewarding them w
 ---
 
 ## Contract Address
----
 
+
+---
 ## Project Vision
 Our vision is to revolutionize online education by integrating blockchain-based rewards and DAOs. This creates a scalable, decentralized, and incentivized platform for learners, educators, and stakeholders.
 
