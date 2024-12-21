@@ -17,7 +17,9 @@ The *Learn-to-Earn Streaming Platform* incentivizes learners by rewarding them w
 ---
 
 ## Contract Address
+0x59d17B75999249D28427C807c1B7691BDbBb779E
 
+![image](https://github.com/user-attachments/assets/d5fb4b6e-ad37-43c9-8b7f-9790787c4cf6)
 
 ---
 ## Project Vision
